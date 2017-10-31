@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="news">News</string>
+    <string name="forall">For All</string>
+    <string name="fromall">From All</string>
+    <string name="wait">Please wait a moment</string>
+    <string name="fetching">We are fetching news for you</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_the_daily_edition">The Daily Edition</string>
+    <string name="title_activity_news_desc">NewsDesc</string>
+    <string name="listitems">list items</string>
+    <string name="search">search</string>
+    <string name="title_activity_saved_news">SavedNews</string>
+    <string name="Details">Details</string>
+    <string name="title_activity_greatpicks">Greatpicks</string>
+    <string name="refresh">Refresh</string>
+    <string name="searchNews">search news</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_daily_news">DailyNews</string>
+
+</resources>
